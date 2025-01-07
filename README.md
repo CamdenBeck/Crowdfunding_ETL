@@ -13,7 +13,7 @@ The Crowdfunding_ETL project is designed to extract, transform, and load data re
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Crowdfunding_ETL.git
+    git clone https://github.com/CamdenBeck/Crowdfunding_ETL.git
     ```
 2. Navigate to the project directory:
     ```sh
