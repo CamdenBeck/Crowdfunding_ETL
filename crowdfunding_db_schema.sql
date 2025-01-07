@@ -47,3 +47,8 @@ COPY category FROM 'Resources/category.csv' DELIMITER ',' CSV HEADER;
 COPY subcategory FROM 'Resources/subcategory.csv' DELIMITER ',' CSV HEADER;
 COPY contacts FROM 'Resources/contacts.csv' DELIMITER ',' CSV HEADER;
 COPY campaign FROM 'Resources/campaign.csv' DELIMITER ',' CSV HEADER;
+
+SELECT * FROM category;
+SELECT * FROM subcategory;
+SELECT * FROM contacts;
+SELECT * FROM campaign;
